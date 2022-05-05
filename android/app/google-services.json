@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028606976714",
+    "project_id": "pool-312f0",
+    "storage_bucket": "pool-312f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028606976714:android:6adf921f6b945140050a33",
+        "android_client_info": {
+          "package_name": "com.example.pool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028606976714-2kc4aroe45hd739sim680ugbfkt8l8hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDQxNqlrXDbYcFkrUKSsCZlKLVVgFATa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028606976714-2kc4aroe45hd739sim680ugbfkt8l8hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
